@@ -1,0 +1,21 @@
+{
+  "name": "hangman2_game",
+  "version": "1.0.0",
+  "description": "Simple test app",
+  "main": "app.js",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "inquirer": "^3.3.0",
+    "prompt": "^1.0.0",
+    "request": "^2.83.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AR",
+  "license": "ISC"
+}
